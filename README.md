@@ -4,7 +4,11 @@ Jogo com algoritmo da dicotomia, tipo de binary search, com chute inicial aleat√
 Referencias:
 
 [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm)
+
+
 [Dichotomic Search](https://en.wikipedia.org/wiki/Dichotomic_search)
+
+
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Morse_code_tree3.png/800px-Morse_code_tree3.png)
 
