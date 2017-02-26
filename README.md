@@ -16,6 +16,6 @@ Jogo com algoritmo da dicotomia, tipo de binary search, com chute inicial aleat�
 
 [Jogo](https://jacobsalzberg.github.io/Jogo-Dicotomia-UI/)
 
-Há teste de convergencia com número de iterações máximo, condição em que o jogador derrotaria o computador.
+Há teste de convergencia (e de fato, o algoritmo sempre converge) com número de iterações máximo (itmax=8), condição em que o jogador derrota o computador.
 
 Escrito em C# e compilado pra rodar em WebGL.
