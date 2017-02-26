@@ -6,3 +6,7 @@ Jogo com algoritmo da busca dicotômica, tipo de binary search, com chute inicia
 [Busca dicotômica](https://en.wikipedia.org/wiki/Dichotomic_search)
 
 ![Exemplo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Morse_code_tree3.png/800px-Morse_code_tree3.png)
+
+## Builds
+
+O arquivo com o projeto completo pra Unity 5.5 (em C#) e também tem a versão WEBGL já compilada.
