@@ -10,4 +10,6 @@ Referencias:
 
 Link pro jogo: [Jogo](https://jacobsalzberg.github.io/Jogo-Dicotomia-UI/)
 
+Há teste de convergencia com número de iterações máximo, condição em que o jogador derrotaria o computador.
+
 Escrito em C# e compilado pra rodar em WebGL.
