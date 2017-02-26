@@ -5,4 +5,4 @@ Jogo com algoritmo da busca dicotômica, tipo de binary search, inicializado de 
 
 [Busca dicotômica](https://en.wikipedia.org/wiki/Dichotomic_search)
 
-
+[!Exemplo](https://en.wikipedia.org/wiki/File:Morse_code_tree3.png)
