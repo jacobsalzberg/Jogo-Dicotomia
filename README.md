@@ -9,4 +9,4 @@ Jogo com algoritmo da busca dicotômica, tipo de binary search, com chute inicia
 
 ## Builds
 
-O arquivo com o projeto completo pra Unity 5.5 (em C#) e também tem a versão WEBGL já compilada.
+O repositório contém o projeto completo pra Unity 5.5 (em C#) e também tem a versão WEBGL já compilada, a título de exemplificação.
