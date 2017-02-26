@@ -1,5 +1,5 @@
 # Jogo-Dicotomia
-Jogo com algoritmo da busca dicotômica, tipo de binary search, inicializado de maneira aleatória.
+Jogo com algoritmo da busca dicotômica, tipo de binary search, com chute inicial inicializado em x0 aleatório ao invés de x0=(xmin+xmax)/2.
 
 [Busca binária](https://en.wikipedia.org/wiki/Binary_search_algorithm)
 
