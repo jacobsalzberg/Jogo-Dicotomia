@@ -1,7 +1,7 @@
 # Jogo-Dicotomia
 Jogo com algoritmo da dicotomia, tipo de binary search, com chute inicial aleatório ao invés de x0=(xmin+xmax)/2;
 
-Referencias:
+##Referencias:
 
 [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm)
 
