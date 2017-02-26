@@ -7,3 +7,7 @@ Referencias:
 [Dichotomic Search](https://en.wikipedia.org/wiki/Dichotomic_search)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Morse_code_tree3.png/800px-Morse_code_tree3.png)
+
+Link pro jogo: [Jogo](https://jacobsalzberg.github.io/Jogo-Dicotomia-UI/)
+
+Escrito em C# e compilado pra rodar em WebGL.
