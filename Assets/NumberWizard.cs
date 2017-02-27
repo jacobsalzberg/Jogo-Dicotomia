@@ -11,7 +11,7 @@ public class NumberWizard : MonoBehaviour {
     int min;
     int guess;
 
-    int maxGuessesAllowed = 10;
+    int maxGuessesAllowed = 18;
 
     public Text text;
 
