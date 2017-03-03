@@ -22,7 +22,7 @@ Written in C# and built as WebGL.
 
 ![Image](https://jacobsalzberg.github.io/db/static/dicotomia.png)
 
-Maior means bigger, igual means equal and Menor means smaller.
+"Maior" means "bigger", "Igual" means "equal" and "Menor" means "smaller".
 
 ## Link to the game
 
