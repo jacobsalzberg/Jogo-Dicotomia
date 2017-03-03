@@ -20,7 +20,7 @@ Written in C# and built as WebGL.
 
 ## Sample Screenshot
 
-![Image](https://jacobsalzberg.github.io/db/static/samir_transao.png)
+![Image](https://jacobsalzberg.github.io/db/static/dicotomia.png)
 
 ## Link to the game
 
