@@ -1,6 +1,6 @@
 # Jogo-Dicotomia-UI
-Game
-Game using dichotomic search, a specific case of binary search, with random initial guess instead de x0=(xmin+xmax)/2 and a set maximum number of iterations.
+
+Jogo-Dicotomia-Ui is a simple game based on dichotomic search, a specific case of binary search, with a fully random initial guess instead de x0=(xmin+xmax)/2. The game also has hardcoded a maximum number of iterations as a *set* value.
 
 ##Refences
 
@@ -20,4 +20,4 @@ Game using dichotomic search, a specific case of binary search, with random init
 There's a convergency test (and *de facto*, the algorithm always converges) with the set maximum number of iterations (itmax=8). If it>itmax, the player beats the computer.
 
 
-Written im C# and built as WebGL.
+Written in C# and built as WebGL.
