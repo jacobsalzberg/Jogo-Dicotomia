@@ -22,6 +22,8 @@ Written in C# and built as WebGL.
 
 ![Image](https://jacobsalzberg.github.io/db/static/dicotomia.png)
 
+Maior means bigger, igual means equal and Menor means smaller.
+
 ## Link to the game
 
 [Game](https://jacobsalzberg.github.io/Jogo-Dicotomia-UI/)
