@@ -4,6 +4,11 @@ Jogo-Dicotomia-Ui is a simple game based on dichotomic search, a specific case o
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Morse_code_tree3.png/800px-Morse_code_tree3.png)
 
+There's a convergency test (and *de facto*, the algorithm always converges) with the set maximum number of iterations (itmax=8). If it>itmax, the player beats the computer.
+
+
+Written in C# and built as WebGL.
+
 
 ##Refences
 
@@ -21,7 +26,3 @@ Jogo-Dicotomia-Ui is a simple game based on dichotomic search, a specific case o
 
 [Game](https://jacobsalzberg.github.io/Jogo-Dicotomia-UI/)
 
-There's a convergency test (and *de facto*, the algorithm always converges) with the set maximum number of iterations (itmax=8). If it>itmax, the player beats the computer.
-
-
-Written in C# and built as WebGL.
