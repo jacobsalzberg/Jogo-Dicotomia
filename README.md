@@ -1,7 +1,8 @@
-# Jogo-Dicotomia
-Jogo com algoritmo da dicotomia, tipo de binary search, com chute inicial aleatório ao invés de x0=(xmin+xmax)/2;
+# Jogo-Dicotomia-UI
+Game
+Game using dichotomic search, a specific case of binary search, with random initial guess instead de x0=(xmin+xmax)/2 and a set maximum number of iterations.
 
-##Referencias:
+##Refences
 
 [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm)
 
@@ -12,10 +13,11 @@ Jogo com algoritmo da dicotomia, tipo de binary search, com chute inicial aleat�
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Morse_code_tree3.png/800px-Morse_code_tree3.png)
 
-##Link pro jogo: 
+##Link to the game
 
-[Jogo](https://jacobsalzberg.github.io/Jogo-Dicotomia-UI/)
+[Game](https://jacobsalzberg.github.io/Jogo-Dicotomia-UI/)
 
-Há teste de convergencia (e de fato, o algoritmo sempre converge) com número de iterações máximo (itmax=8), condição em que o jogador derrota o computador.
+There's a convergency test (and *de facto*, the algorithm always converges) with the set maximum number of iterations (itmax=8). If it>itmax, the player beats the computer.
 
-Escrito em C# e compilado pra rodar em WebGL.
+
+Written im C# and built as WebGL.
